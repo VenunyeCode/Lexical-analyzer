@@ -1,0 +1,5 @@
+10 INPUT X, Y
+20 LET Z = X + Y
+30 LET Z = Z / 2
+40 PRINT Z
+50 END
